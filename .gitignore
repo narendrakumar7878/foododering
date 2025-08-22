@@ -1,0 +1,14 @@
+# Python
+
+# Django
+db.sqlite3
+/media
+
+# Environment
+.env
+env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
